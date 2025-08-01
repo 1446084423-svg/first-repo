@@ -11,3 +11,6 @@ This is my first repository on GitHub!
 ## Author
 
 1446084423-svg
+## My favorite programming language
+
+- Python
